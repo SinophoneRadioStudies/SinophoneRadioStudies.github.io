@@ -13,10 +13,6 @@ profiles:
     image: feng_xiangjun.jpeg
     content: about_feng.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Department of Asian Studies</p>
-      <p>University of British Columbia</p>
-      <p>Vancouver, BC V6T 1Z2, Canada</p>
   - align: left
     image: dai_dorothy.jpg
     content: about_dai.md
@@ -25,7 +21,4 @@ profiles:
     image: zhang_shiran.jpg
     content: about_zhang.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Google BV200</p>
-      <p>Mountain View, CA 94043, USA</p>
 ---

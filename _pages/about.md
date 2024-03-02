@@ -2,19 +2,7 @@
 layout: about
 title: About
 permalink: /
-<!--
-subtitle: SSHRC Postdoctoral Fellow. Early Modern and Modern Chinese Literature. Department of Asian Studies. <a href='https://asia.ubc.ca/profile/xiangjun-sean-feng/'>University of British Columbia</a>
-
-profile:
-  align: right
-  image: feng_xiangjun.jpeg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Asian Studies</p>
-    <p>University of British Columbia</p>
-    <p>Vancouver, BC V6T 1Z2, Canada</p>
-
--->
+subtitle: This is a digital archive for Sinophone Radio Studies.
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts

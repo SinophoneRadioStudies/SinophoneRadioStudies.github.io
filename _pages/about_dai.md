@@ -1,4 +1,6 @@
-## Student Academic Assistant: Dorothy Dai
+## Student Academic Assistant
+
+### Dorothy Dai
 
 **Email: <qinyidai@student.ubc.ca>**
 
