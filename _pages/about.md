@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /
+<!--
 subtitle: SSHRC Postdoctoral Fellow. Early Modern and Modern Chinese Literature. Department of Asian Studies. <a href='https://asia.ubc.ca/profile/xiangjun-sean-feng/'>University of British Columbia</a>
 
 profile:
@@ -13,13 +14,13 @@ profile:
     <p>University of British Columbia</p>
     <p>Vancouver, BC V6T 1Z2, Canada</p>
 
+-->
+
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-Xiangjun “Sean” Feng 馮相郡 received his Ph.D. from the Department of East Asian Languages and Cultures, UC Berkeley, in 2021. His dissertation, Secret Scroll: The Production of Occult Knowledge in China’s Age of Print, untangles what he calls “the paradox of secrecy in the age of print” by studying a wide range of “secret scrolls” — books claiming the revelation of occult knowledge — that were produced in China’s early modern and modern periods, such as books of prophecy, sectarian scriptures, secret society pamphlets, mesmerism how-to books, kung fu manuals, as well as a rich body of literary works that engaged with the “secret scroll” as a cultural trope. A chapter of the dissertation, which reads the famous late-Qing Chinese novel The Travels of Lao Can as a book of prophecy, has appeared in Journal of the Royal Asiatic Society. He is also interested in sound studies and has published articles on such topics as rhythm, radio, and Chinese sounds in Southeast Asia.
 
 ## Message from Xiangjun "Sean" Feng:
 

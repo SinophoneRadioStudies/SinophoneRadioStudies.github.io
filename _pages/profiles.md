@@ -10,19 +10,22 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: feng_xiangjun.jpeg
+    content: about_feng.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Department of Asian Studies</p>
+      <p>University of British Columbia</p>
+      <p>Vancouver, BC V6T 1Z2, Canada</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: dai_dorothy.jpg
+    content: about_dai.md
+    image_circular: false # crops the image to make it circular
+  - align: left
+    image: zhang_shiran.jpg
+    content: about_zhang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Google BV200</p>
+      <p>Mountain View, CA 94043, USA</p>
 ---
