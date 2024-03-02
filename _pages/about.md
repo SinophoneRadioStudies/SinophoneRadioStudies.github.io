@@ -6,7 +6,7 @@ subtitle: SSHRC Postdoctoral Fellow. Early Modern and Modern Chinese Literature.
 
 profile:
   align: right
-  image: feng_xiangjun.jpg
+  image: feng_xiangjun.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Asian Studies</p>
