@@ -1,70 +1,43 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
-subtitle: This is a digital archive for Sinophone Radio Studies.
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### Message from Xiangjun "Sean" Feng:
+### Radio Periodicals 1928-1949
 
-Hello!
+#### Introducing Chinan HAM Radio Periodicals, 1928-1949
+1928-1949 中国业余无线电珍贵刊物集锦
 
-This website aims to become a companion to the historical studies of radio in China and the global Sinophone communities. It is currently under construction, but please expect to see these contents soon:
+#### What Is It?
+A collection of 22 kinds of DIGITIZED periodicals about HAM radio (and the more general radio world) that were published in China between 1928 and 1949.
 
-- **Annotated radio studies bibliography.**
+##### How to Get It?
+The public version (about 11 GB) is OPEN ACCESS at the website of the Chinese Radio Amateurs Club ([CRAC](http://www.crac.org.cn/News/Detail?ID=3032)) 中国无线电协会业余无线电分会, a member society of the International Amateur Radio Union ([IARU](http://www.iaru.org/)). [CLICK HERE](http://www.crac.org.cn/News/Detail?ID=3032) to go to the download page. 
 
-For now, I hope you will enjoy this Open Access article of mine:
+Note: The files are hosted on Baidu Wangpan 百度网盘, a cloud service provided by Baidu, Inc. in China. To download, you will need the link and password available on the CRAC website. If you are a paid user of Baidu Wangpan, downloads should proceed smoothly. For non-paid users, download speeds may be significantly slower due to the large file sizes. Please know that we do not own these files or control the download links, and therefore cannot guarantee their reliability, safety, or security. We encourage users to exercise caution and follow standard internet safety practices when accessing these files. 
 
-["The Birth of Noise in Modern China: Radio, Amateur Engineering, and the Sonic Network."](https://www.tandfonline.com/doi/full/10.1080/17508061.2023.2280435)
+For access to the restricted version, please contact CRAC directly.
 
-Please know that there will be minor changes in the version appearing in the paper-copy of the journal, and this online version will be updated accordingly.
+#### Who Built It?
+Remember this name: Tong Xiaoyong 童效勇 (Call Sign: BA1AA). Mr. Tong collected these periodicals over decades, not for himself, but for the HAM community. CRAC digitalized these materials and made them available to the public in April 2015. To learn more about the stories behind this collection, read these three articles that we have translated into English:
 
-- **Selected and annotated PDF files of historical radio periodicals published in China in the 1920s-1940s.**
+Tong Xiaoyong (BA1AA): “Notes on the Content of this CD Collection” 关于本套光盘资料内容的一些说明 [link]
 
-For now, I hope you are enjoying browsing the photos already posted here, which is a miniature sample of the named archive.
+Tong Xiaoyong (BA1AA): “About the Origin of the 1928–1949 China HAM Radio Periodicals”
+关于1928-1949 中国业余无线电珍贵刊物的来历 [link]
 
-- **Audio recordings of (fragments of) historical Chinese/Sinophone radio programs.**
+Chen Ping 陈平 (BA1HAM): “On the Production of the CD Collection” 资料光盘制作后记 [link]
 
-This won't be easy!! But let's see how many we can collect.
+#### What Materials Does It Contain?
+This collection contains 22 kinds of periodicals. (Not all periodicals are complete; we will point to alternative sources for the missing contents, whenever possible.) It also has an appendix about Zhu Qiqing 朱其清 (1898–1973), one of the radio pioneers in China. 
 
-- **Introduction to the project "Radio Culture in Modern China, 1923-1949."**
+We are working on writing annotations to each of the periodicals. Click the images above for more information.
 
-This is an Insight Development Grant (IDG) project supported by the Social Sciences and Humanities Research Council of Canada (SSHRC). File Number: 430-2023-00639. This website is funded by this grant.
-
-A series of short essays by Dorothy Dai, the Student Academic Assistant to this project, will appear here soon. Other progresses will also be updated.
-
-- **Links to other radio studies resources.**
-
-Please keep an eye on this website's new developments.
-
-Meanwhile, I'd love to thank these institutions and scholars who have supported this project in different forms (listed alphabetically):
-
-- Social Sciences and Humanities Research Council of Canada
-- Chinese Radio Amateurs Club 中國無線電協會業餘無線電分會
-- Department of Asian Studies, the University of British Columbia
-- Anonymous reviewers of the above-named article
-- Weihong Bao
-- Yomi Braester
-- Dai Jinhua 戴錦華
-- Kyle Frackman
-- Yi Gu
-- Andrew F. Jones
-- Julia Keblinska
-- Tong Lam
-- Sharalyn Orbaugh
-- Christopher Rea
-- Evelyn Shih
-- David Wang
-- Yiching Wu
-- Yurou Zhong
-
-If you have any questions or comments, feel free to reach me at <fengxiangjun@berkeley.edu>. Thank you!
-
-Yours truly,
-
-Sean
+#### How to Credit It?
+In addition to citing individual sources according to standard academic practices, we encourage scholars to acknowledge CRAC for making this collection publicly accessible in any publications that benefit from its use. We also encourage other users to provide the same acknowledgment when repurposing materials from this collection.
