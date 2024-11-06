@@ -21,7 +21,7 @@ A collection of 22 kinds of DIGITIZED periodicals about HAM radio (and the more 
 
 #### How to Get It?
 
-The public version (about 11 GB) is OPEN ACCESS at the website of the Chinese Radio Amateurs Club ([CRAC](http://www.crac.org.cn/News/Detail?ID=3032)) 中国无线电协会业余无线电分会, a member society of the International Amateur Radio Union ([IARU](http://www.iaru.org/)). [CLICK HERE](http://www.crac.org.cn/News/Detail?ID=3032) to go to the download page.
+The public version (about 11 GB) is OPEN ACCESS at the website of the Chinese Radio Amateurs Club ([CRAC][1]) 中国无线电协会业余无线电分会, a member society of the International Amateur Radio Union ([IARU][2]). [CLICK HERE][3] to go to the download page.
 
 Note: The files are hosted on Baidu Wangpan 百度网盘, a cloud service provided by Baidu, Inc. in China. To download, you will need the link and password available on the CRAC website. If you are a paid user of Baidu Wangpan, downloads should proceed smoothly. For non-paid users, download speeds may be significantly slower due to the large file sizes. Please know that we do not own these files or control the download links, and therefore cannot guarantee their reliability, safety, or security. We encourage users to exercise caution and follow standard internet safety practices when accessing these files.
 
@@ -47,3 +47,7 @@ We are working on writing annotations to each of the periodicals. Click the imag
 #### How to Credit It?
 
 In addition to citing individual sources according to standard academic practices, we encourage scholars to acknowledge CRAC for making this collection publicly accessible in any publications that benefit from its use. We also encourage other users to provide the same acknowledgment when repurposing materials from this collection.
+
+[1]:	http://www.crac.org.cn/News/Detail?ID=3032
+[2]:	http://www.iaru.org/
+[3]:	http://www.crac.org.cn/News/Detail?ID=3032

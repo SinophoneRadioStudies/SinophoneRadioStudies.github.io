@@ -2,7 +2,7 @@
 layout: page
 title: People
 nav: true
-nav\_order: 4
+nav_order: 4
 dropdown: true
 children:
   - title: Team Member
