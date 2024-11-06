@@ -1,19 +1,19 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /sources/
+title: Primary Sources
 nav: true
-nav_order: 1
+nav\_order: 1
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
+  per\_page: 5
+  sort\_field: date
+  sort\_reverse: true
   trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+	before: 1 # The number of links before the current page
+	after: 3 # The number of links after the current page
 ---
 
 <div class="post">
