@@ -22,11 +22,11 @@ nav: false
 {% for user in site.data.repositories.github_users %}
 {% if site.data.repositories.github\_users.size \> 1 %}
 
-  \<h4\>{{ user }}\</h4\>
-  {% endif %}
-  \<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center"\>
-  {% include repository/repo\_trophies.liquid username=user %}
-  \</div\>
+\<h4\>{{ user }}\</h4\>
+{% endif %}
+\<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center"\>
+{% include repository/repo\_trophies.liquid username=user %}
+\</div\>
 
 ---
 

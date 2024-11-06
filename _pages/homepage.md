@@ -48,6 +48,6 @@ We are working on writing annotations to each of the periodicals. Click the imag
 
 In addition to citing individual sources according to standard academic practices, we encourage scholars to acknowledge CRAC for making this collection publicly accessible in any publications that benefit from its use. We also encourage other users to provide the same acknowledgment when repurposing materials from this collection.
 
-[1]:	http://www.crac.org.cn/News/Detail?ID=3032
-[2]:	http://www.iaru.org/
-[3]:	http://www.crac.org.cn/News/Detail?ID=3032
+[1]: http://www.crac.org.cn/News/Detail?ID=3032
+[2]: http://www.iaru.org/
+[3]: http://www.crac.org.cn/News/Detail?ID=3032

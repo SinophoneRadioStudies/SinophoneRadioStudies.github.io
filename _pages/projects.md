@@ -63,4 +63,3 @@ pages/projects.md
   {% endif %}
 {% endif %}
 </div>
-
