@@ -7,7 +7,8 @@ nav: true
 nav\_order: 3
 ---
 
- \_pages/publications.md
+\_pages/publications.md
+
 <div class="publications">
 
 {% bibliography %}

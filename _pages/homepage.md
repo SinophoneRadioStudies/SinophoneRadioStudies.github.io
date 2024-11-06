@@ -21,9 +21,9 @@ A collection of 22 kinds of DIGITIZED periodicals about HAM radio (and the more 
 
 #### How to Get It?
 
-The public version (about 11 GB) is OPEN ACCESS at the website of the Chinese Radio Amateurs Club ([CRAC](http://www.crac.org.cn/News/Detail?ID=3032)) 中国无线电协会业余无线电分会, a member society of the International Amateur Radio Union ([IARU](http://www.iaru.org/)). [CLICK HERE](http://www.crac.org.cn/News/Detail?ID=3032) to go to the download page. 
+The public version (about 11 GB) is OPEN ACCESS at the website of the Chinese Radio Amateurs Club ([CRAC](http://www.crac.org.cn/News/Detail?ID=3032)) 中国无线电协会业余无线电分会, a member society of the International Amateur Radio Union ([IARU](http://www.iaru.org/)). [CLICK HERE](http://www.crac.org.cn/News/Detail?ID=3032) to go to the download page.
 
-Note: The files are hosted on Baidu Wangpan 百度网盘, a cloud service provided by Baidu, Inc. in China. To download, you will need the link and password available on the CRAC website. If you are a paid user of Baidu Wangpan, downloads should proceed smoothly. For non-paid users, download speeds may be significantly slower due to the large file sizes. Please know that we do not own these files or control the download links, and therefore cannot guarantee their reliability, safety, or security. We encourage users to exercise caution and follow standard internet safety practices when accessing these files. 
+Note: The files are hosted on Baidu Wangpan 百度网盘, a cloud service provided by Baidu, Inc. in China. To download, you will need the link and password available on the CRAC website. If you are a paid user of Baidu Wangpan, downloads should proceed smoothly. For non-paid users, download speeds may be significantly slower due to the large file sizes. Please know that we do not own these files or control the download links, and therefore cannot guarantee their reliability, safety, or security. We encourage users to exercise caution and follow standard internet safety practices when accessing these files.
 
 For access to the restricted version, please contact CRAC directly.
 
@@ -40,7 +40,7 @@ Chen Ping 陈平 (BA1HAM): “On the Production of the CD Collection” 资料�
 
 #### What Materials Does It Contain?
 
-This collection contains 22 kinds of periodicals. (Not all periodicals are complete; we will point to alternative sources for the missing contents, whenever possible.) It also has an appendix about Zhu Qiqing 朱其清 (1898–1973), one of the radio pioneers in China. 
+This collection contains 22 kinds of periodicals. (Not all periodicals are complete; we will point to alternative sources for the missing contents, whenever possible.) It also has an appendix about Zhu Qiqing 朱其清 (1898–1973), one of the radio pioneers in China.
 
 We are working on writing annotations to each of the periodicals. Click the images above for more information.
 
