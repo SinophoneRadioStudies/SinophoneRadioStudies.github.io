@@ -1,5 +1,3 @@
-## Principal Investigator
-
 ### Xiangjun "Sean" Feng 馮相郡
 
 **Email: <fengxiangjun@berkeley.edu>, <sean.feng@ubc.ca>**
