@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: periodicals
+permalink: /periodicals/
+description: 1928-1949 中国业余无线电珍贵刊物集锦
 nav: false
-display_categories: [work, fun]
+display_categories: []
 horizontal: false
 ---
 
@@ -42,7 +42,7 @@ horizontal: false
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
 
-  <!-- Generate cards for each project -->
+<!-- Generate cards for each project -->
 
 {% if page.horizontal %}
 
