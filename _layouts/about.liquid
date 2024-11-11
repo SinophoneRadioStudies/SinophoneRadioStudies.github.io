@@ -15,6 +15,14 @@ layout: default
   </header>
 
   <article>
+    <!-- Periodicals -->
+    {% if page.periodicals %}
+      <h2>
+        <a href="{{ '/periodicals/' | relative_url }}" style="color: inherit">Radio Periodicals 1928-1949</a>
+      </h2>
+      {% include periodicals.liquid %}
+    {% endif %}
+
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
