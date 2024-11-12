@@ -20,12 +20,12 @@ For access to the restricted version, please contact CRAC directly.
 
 Remember this name: Tong Xiaoyong 童效勇 (Call Sign: BA1AA). Mr. Tong collected these periodicals over decades, not for himself, but for the HAM community. CRAC digitalized these materials and made them available to the public in April 2015. To learn more about the stories behind this collection, read these three articles that we have translated into English:
 
-Tong Xiaoyong (BA1AA): “Notes on the Content of this CD Collection” 关于本套光盘资料内容的一些说明 [link]
+[Tong Xiaoyong (BA1AA): “Notes on the Content of this CD Collection” 关于本套光盘资料内容的一些说明][4]
 
-Tong Xiaoyong (BA1AA): “About the Origin of the 1928–1949 China HAM Radio Periodicals”
-关于1928-1949 中国业余无线电珍贵刊物的来历 [link]
+[Tong Xiaoyong (BA1AA): “About the Origin of the 1928–1949 China HAM Radio Periodicals”
+关于1928-1949 中国业余无线电珍贵刊物的来历][5]
 
-Chen Ping 陈平 (BA1HAM): “On the Production of the CD Collection” 资料光盘制作后记 [link]
+[Chen Ping 陈平 (BA1HAM): “On the Production of the CD Collection” 资料光盘制作后记][6]
 
 ### What Materials Does It Contain?
 
@@ -40,3 +40,6 @@ In addition to citing individual sources according to standard academic practice
 [1]: http://www.crac.org.cn/News/Detail?ID=3032
 [2]: http://www.iaru.org/
 [3]: http://www.crac.org.cn/News/Detail?ID=3032
+[4]: _pages/article_1.md
+[5]: _pages/article_2.md
+[6]: _pages/article_3.md
