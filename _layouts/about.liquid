@@ -20,7 +20,7 @@ layout: default
       <h2>
         <a href="{{ '/periodicals/' | relative_url }}" style="color: inherit">Radio Periodicals 1928-1949</a>
       </h2>
-      {% capture radio_periodicals %}{% include_relative radio_periodicals.md %}{% endcapture %}
+      {% capture radio_periodicals %}{% include_relative periodicals_radio.md %}{% endcapture %}
       {{ radio_periodicals | markdownify }}
     {% endif %}
 
