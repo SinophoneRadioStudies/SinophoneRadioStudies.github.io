@@ -40,6 +40,6 @@ In addition to citing individual sources according to standard academic practice
 [1]: http://www.crac.org.cn/News/Detail?ID=3032
 [2]: http://www.iaru.org/
 [3]: http://www.crac.org.cn/News/Detail?ID=3032
-[4]: _pages/article_1.md
-[5]: _pages/article_2.md
-[6]: _pages/article_3.md
+[4]: /article_1/
+[5]: /article_2/
+[6]: /article_3/
