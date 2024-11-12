@@ -1,8 +1,7 @@
 ---
 layout: page
-title: periodicals
+title: Radio Periodicals 1928-1949
 permalink: /periodicals/
-description: 1928-1949 中国业余无线电珍贵刊物集锦
 nav: false
 ---
 
