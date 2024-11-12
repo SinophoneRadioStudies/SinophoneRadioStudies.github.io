@@ -5,5 +5,5 @@ permalink: /periodicals/
 nav: false
 ---
 
-{% capture radio_periodicals %}{% include_relative radio_periodicals.md %}{% endcapture %}
+{% capture radio_periodicals %}{% include_relative periodicals_radio.md %}{% endcapture %}
 {{ radio_periodicals | markdownify }}
