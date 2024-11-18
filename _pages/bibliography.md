@@ -6,4 +6,4 @@ nav: true
 nav_order: 2
 ---
 
-Left blank in purpose.
+To be updated soon.
