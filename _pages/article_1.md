@@ -8,7 +8,7 @@ nav: false
 # Notes on the Content of this Digital Collection
 # 关于本套光盘资料内容的一些说明
 
-Tong Xiaoyong (BA1AA)
+Tong Xiaoyong (BA1AA)  
 童效勇 BA1AA
 
 Draft translated by ChatGPT, with corrections and revisions by Xiangjun Feng
