@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SinophoneRadioStudies.github.io/sitemap.xml
+Sitemap: https://www.sinophoneradio.com/sitemap.xml
