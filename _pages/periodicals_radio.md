@@ -1,3 +1,5 @@
+# (I know a lot of things on the website look strange—because we are still building it. Thank you for your patience!)
+
 ### Introducing Chinan HAM Radio Periodicals, 1928-1949
 
 1928-1949 中国业余无线电珍贵刊物集锦
