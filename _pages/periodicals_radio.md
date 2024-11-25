@@ -1,4 +1,4 @@
-# (I know a lot of things on the website look strange—because we are still building it. Thank you for your patience!)
+*<span style="color: blue;">(I know a lot of things on the website look strange—because we are still building it. Thank you for your patience!)</span>*
 
 ### Introducing China HAM Radio Periodicals, 1928-1949
 
