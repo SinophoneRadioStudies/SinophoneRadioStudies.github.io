@@ -9,8 +9,13 @@ nav: false
 
 # 关于本套光盘资料内容的一些说明
 
-Tong Xiaoyong (BA1AA)  
+By Tong Xiaoyong (BA1AA)  
 童效勇 BA1AA
+
+<img src="/assets/img/童效勇.jpg" alt="Alt Text" width="400" />  
+
+*Mr. Tong Xiaoyong in 2023. Source: [Beijing Radio Association 北京无线电协会](http://www.bjwxdxh.org.cn/news/html/?1094.html)*  
+
 
 Draft translated by ChatGPT, with corrections and revisions by Xiangjun Feng
 
