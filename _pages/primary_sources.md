@@ -11,7 +11,7 @@ children:
     permalink: /periodicals/
   - title: divider
   - title: Audio
-    permalink: /
+    permalink: /audio/
 ---
 
 
