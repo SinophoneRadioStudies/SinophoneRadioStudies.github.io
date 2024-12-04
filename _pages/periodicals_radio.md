@@ -42,4 +42,4 @@ In addition to citing individual sources according to standard academic practice
 [3]: http://www.crac.org.cn/News/Detail?ID=3032
 [4]: /article_1/
 [5]: /article/periodical_origin/
-[6]: /article_3/
+[6]: /article/digital_production/
