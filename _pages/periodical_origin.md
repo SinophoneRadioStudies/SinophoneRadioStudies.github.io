@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Article 2
-permalink: /article_2/
+title: About the Origin of the 1928–1949 China HAM Radio Periodicals
+permalink: /periodical_origin/
 nav: false
 ---
-
-# About the Origin of the 1928–1949 China HAM Radio Periodicals
 
 # 关于 1928-1949 中国业余无线电珍贵刊物的来历
 
