@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Article 1
-permalink: /article_1/
+title: Notes on the Content of this Digital Collection
+permalink: /article/content_note/
 nav: false
 ---
-
-# Notes on the Content of this Digital Collection
 
 # 关于本套光盘资料内容的一些说明
 
