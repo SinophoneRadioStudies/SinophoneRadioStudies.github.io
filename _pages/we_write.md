@@ -16,6 +16,16 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+# Publication
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
+
+# Dorothy's Short Essays on Radio
+
 <div class="post">
 
   <ul class="post-list">
