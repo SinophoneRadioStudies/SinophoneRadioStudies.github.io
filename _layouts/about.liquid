@@ -14,6 +14,13 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
+  <!-- Welcome Section -->
+<section id="welcome">
+  {{ site.pages | where: "path", "/pages/welcome.md" | first | content }}
+</section>
+
+  
+
   <article>
     <!-- Periodicals -->
     {% if page.periodicals %}
