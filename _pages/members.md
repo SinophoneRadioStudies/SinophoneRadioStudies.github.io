@@ -17,6 +17,7 @@ profiles:
     content: about_dai.md
     image_circular: false # crops the image to make it circular
   - align: right
+    image: yap_sze_sze.jpg
     content: about_yap.md
     image_circular: false # crops the image to make it circular
   - align: left
