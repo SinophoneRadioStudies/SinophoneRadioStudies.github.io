@@ -14,10 +14,8 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-  <!-- Welcome Section -->
-<section id="welcome">
-  {{ site.pages | where: "path", "/_pages/welcome.md" | first | content }}
-</section>
+<!-- Welcome Section -->
+{% include welcome.md %}
 
   
 
