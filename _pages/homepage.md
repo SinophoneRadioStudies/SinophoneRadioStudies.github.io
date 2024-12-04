@@ -3,6 +3,7 @@ layout: about
 title: Home
 permalink: /
 
+welcome: true
 periodicals: true
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
