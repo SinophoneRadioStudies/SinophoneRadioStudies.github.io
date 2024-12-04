@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes on the Content of this Digital Collection
-permalink: /article/content_note/
+permalink: /article/content_notes/
 nav: false
 ---
 
