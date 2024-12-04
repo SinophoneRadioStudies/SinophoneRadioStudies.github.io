@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Article 3
-permalink: /article_3/
+title: On the Production of This Digital Collection
+permalink: /article/digital_production/
 nav: false
 ---
-
-# On the Production of This Digital Collection
 
 # 资料光盘制作后记
 
