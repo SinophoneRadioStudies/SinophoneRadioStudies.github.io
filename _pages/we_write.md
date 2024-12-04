@@ -16,7 +16,9 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
-# Publication
+<h2>
+  Publication
+</h2>
 
 <div class="publications">
 
@@ -24,7 +26,9 @@ pagination:
 
 </div>
 
-# Dorothy's Short Essays on Radio
+<h2>
+  Dorothy's Short Essays on Radio
+</h2>
 
 <div class="post">
 
