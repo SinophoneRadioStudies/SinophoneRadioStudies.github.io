@@ -17,4 +17,4 @@ thumbnail: assets/img/9.jpg
     (《中华无线电》第一卷第二期)
 </div>
 
-The hemorrhoid treatment advertisement next to the radio program schedule may seem irrelevant at first comparing to the advertisement of radio models, magazines, and accessories that radio magazines have in most cases. However, it, in fact, indicates that the clinic and the magazine know their audience persona accurately since radio amateurs who stay indoors and remain seated for long periods have a higher possibility of getting hemorrhoids. 
+The hemorrhoid treatment advertisement next to the radio program schedule may seem irrelevant at first comparing to the advertisement of radio models, magazines, and accessories that radio magazines have in most cases. However, it, in fact, indicates that the clinic and the magazine know their audience persona accurately since radio amateurs who stay indoors and remain seated for long periods have a higher possibility of getting hemorrhoids.
