@@ -14,12 +14,13 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
-<!-- Welcome Section -->
-{% include welcome.md %}
-
-  
-
   <article>
+    <!-- Welcome Section -->
+    {% if page.welcome %}
+      {% capture welcome %}{% include_relative welcome.md %}{% endcapture %}
+      {{ welcome | markdownify }}
+    {% endif %}
+
     <!-- Periodicals -->
     {% if page.periodicals %}
       <h2>
