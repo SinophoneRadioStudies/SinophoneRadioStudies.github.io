@@ -3,7 +3,7 @@ _<span style="color: blue;">(I know a lot of things on the website look strangeâ
 Can you figure out what the secret code below means? Email your answer to <fengxiangjun@berkeley.edu> and get a prize!
 (Wait...I have not decided what the prize is, but it's probably going to be humble...)
 
-<span style="color: blue; font-size: 100px;">.-- . .-.. -.-. --- -- . / - --- / ... .. -. --- .--. .... --- -. . / .-. .- -.. .. --- / ... - ..- -.. .. . ...</span>
+<span style="color: blue; font-size: 128px;">.-- . .-.. -.-. --- -- . / - --- / ... .. -. --- .--. .... --- -. . / .-. .- -.. .. --- / ... - ..- -.. .. . ...</span>
 
 
 
