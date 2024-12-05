@@ -16,7 +16,7 @@ _Mr. Tong Xiaoyong in 2023. Source: [Beijing Radio Association 北京无线电�
 
 Draft translated by ChatGPT, with corrections and revisions by Xiangjun Feng
 
-## 1, On the Collection of Amateur Radio Periodicals
+## 1. On the Collection of Amateur Radio Periodicals
 
 ## 一、关于业余无线电珍贵刊物集锦
 
