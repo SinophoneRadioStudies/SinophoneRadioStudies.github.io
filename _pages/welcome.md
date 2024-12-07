@@ -4,7 +4,3 @@ Can you figure out what the secret code below means? Email your answer to <fengx
 (Wait...I have not decided what the prize is, but it's probably going to be humble...)
 
 <span style="color: blue; font-size: 50px;">.-- . .-.. -.-. --- -- . / - --- / ... .. -. --- .--. .... --- -. . / .-. .- -.. .. --- / ... - ..- -.. .. . ...</span>
-
-
-
-
