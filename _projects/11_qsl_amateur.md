@@ -1,6 +1,7 @@
 ---
 layout: page
-title: QSL业余无线电半月刊 QSL [Amateur Radio Semimonthly]
+title: QSL业余无线电半月刊
+title_english: QSL Amateur Radio Semimonthly
 img: assets/img/11业余无线电半月刊.jpg
 importance: 6
 ---
