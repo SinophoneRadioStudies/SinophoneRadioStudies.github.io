@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 无线电月报 The Radio Monthly
+title: 无线电月报
+title_english: The Radio Monthly
 description: 无线电月报封面
 img: assets/img/01无线电月报封面.jpg
 importance: 1
