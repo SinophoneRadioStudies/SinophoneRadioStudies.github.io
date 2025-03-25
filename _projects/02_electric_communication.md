@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 电信 Electric Communication
+title: 电信
+title_english: Electric Communication
 description: 电信封面
 img: assets/img/02电信封面.jpg
 importance: 2
