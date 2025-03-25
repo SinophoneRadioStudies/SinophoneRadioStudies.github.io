@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 实用无线电 Popular Radio Magazine
+title: 实用无线电
+title_english: Popular Radio Magazine
 img: assets/img/09实用无线电封面.jpg
 importance: 6
 ---
