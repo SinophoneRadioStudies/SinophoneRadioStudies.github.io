@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 电讯 Electric Intelligence
+title: 电讯
+title_english: Electric Intelligence
 img: assets/img/20电讯封面.jpg
 importance: 6
 ---
