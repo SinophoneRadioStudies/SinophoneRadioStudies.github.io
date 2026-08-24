@@ -1,0 +1,159 @@
+/* Styling for the 無線電問答彙刊 full-text search and reader pages.
+   Colours come from the theme's own variables so the pages follow light/dark mode
+   and any future palette change without further edits. */
+
+.qa-bar {
+  display: flex;
+  gap: 0.6rem;
+  margin: 1.2rem 0 0.6rem;
+}
+
+#qa-q {
+  flex: 1;
+  padding: 0.6rem 0.8rem;
+  font-size: 1.05rem;
+  color: var(--global-text-color);
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+}
+
+#qa-q:focus {
+  outline: none;
+  border-color: var(--global-theme-color);
+}
+
+#qa-go {
+  padding: 0 1.3rem;
+  font-size: 0.95rem;
+  color: var(--global-bg-color);
+  background-color: var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#qa-go:hover {
+  filter: brightness(1.15);
+}
+
+.qa-note {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+}
+
+.qa-note code {
+  font-size: 0.8rem;
+}
+
+.qa-eg {
+  border-bottom: 1px dotted var(--global-theme-color);
+  cursor: pointer;
+}
+
+#qa-info {
+  margin: 1.4rem 0 0.8rem;
+  padding-bottom: 0.5rem;
+  font-size: 0.92rem;
+  color: var(--global-text-color-light);
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+#qa-info b {
+  color: var(--global-theme-color);
+  font-size: 1.05rem;
+}
+
+.qa-hit {
+  display: block;
+  padding: 0.7rem 0.9rem;
+  margin-bottom: 0.5rem;
+  color: var(--global-text-color);
+  text-decoration: none;
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-left: 3px solid transparent;
+  border-radius: 3px;
+}
+
+.qa-hit:hover {
+  color: var(--global-text-color);
+  text-decoration: none;
+  border-left-color: var(--global-theme-color);
+}
+
+.qa-hit-src {
+  margin-bottom: 0.3rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  color: var(--global-text-color-light);
+}
+
+.qa-hit-txt {
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.qa-hit-txt mark,
+.qa-page mark {
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+#qa-more {
+  display: block;
+  width: 100%;
+  padding: 0.6rem;
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+#qa-more:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+}
+
+/* reader */
+.qa-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+  margin: 1.2rem 0;
+}
+
+.qa-nav button,
+.qa-nav select {
+  padding: 0.35rem 0.8rem;
+  font-size: 0.9rem;
+  color: var(--global-text-color);
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.qa-nav button:hover {
+  color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+}
+
+.qa-pos {
+  margin-left: auto;
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+}
+
+.qa-page {
+  padding: 1.1rem 1.3rem;
+  font-size: 1.05rem;
+  line-height: 2;
+  white-space: pre-wrap;
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 3px;
+}
