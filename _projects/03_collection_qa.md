@@ -7,10 +7,19 @@ img: assets/img/03无线电问答汇刊封面.jpg
 importance: 3
 ---
 
+<link rel="stylesheet" href="{{ '/assets/qa/qa.css' | relative_url }}" />
+
 **Collections of Radio Q&A** 無線電問答彙刊 was issued in Shanghai in 1932 by the China Radio Company
 亞美公司 (亞美股份有限公司), at 323 Kiangse Road 江西路三百廿三號, and edited by Su Zuguo 蘇祖國. It appeared
 twice a month, on the 5th and the 20th, at twenty cents an issue; the run reached at least twenty-four
 numbers, several of which were later reissued as combined volumes.
+
+<div class="qa-cta">
+  <div class="qa-cta-head"><strong>All 985 pages of this title are transcribed and searchable.</strong></div>
+  <div class="qa-cta-sub">21 issues · 402,152 characters · 1,086 numbered questions. Simplified and traditional characters return the same results.</div>
+  <a href="{{ '/periodicals/radio-qa/' | relative_url }}">Search the full text</a>
+  <a class="secondary" href="{{ '/periodicals/radio-qa/contents/' | relative_url }}">Browse the contents</a>
+</div>
 
 The format is entirely reader-driven. Each number prints questions sent in by readers — on components, tubes,
 coils, condensers, aerials and earths, batteries and power supplies, crystal sets, detection, interference,
@@ -31,14 +40,6 @@ Two features make the run useful beyond the history of amateur technique:
 
 No. 19 departs from the pattern: it is a special broadcasting number 廣播特刊, priced at twenty-five cents.
 
-## Search the full run
-
-Every scanned page of this title has been transcribed and indexed, so the run can be searched by what is
-printed in it.
-
-<p><a class="btn btn-sm z-depth-0" role="button" href="{{ '/periodicals/radio-qa/' | relative_url }}">Search Collections of Radio Q&A &rarr;</a></p>
-
-Simplified and traditional characters return identical results, so 矿石收音机 and 礦石收音機 find the same
-pages. The transcription is there to make the run searchable and readable; for quotation, please consult the
+The transcription is there to make the run searchable and readable; for quotation, please consult the
 original scans, available from the
 [CRAC download page](http://www.crac.org.cn/News/Detail?ID=3032) that also serves the rest of this collection.

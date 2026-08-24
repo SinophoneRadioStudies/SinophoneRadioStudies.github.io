@@ -25,6 +25,12 @@ what is actually printed in it rather than by issue number alone. <span id="qa-s
   or <a class="qa-eg" href="#">短波|超短波</a>.
 </p>
 
+<p class="qa-note">
+  Prefer to look through the run rather than search it? Every numbered question, issue by issue, with the
+  reader who sent it, is listed on the
+  <a href="{{ '/periodicals/radio-qa/contents/' | relative_url }}">contents page</a>.
+</p>
+
 <p id="qa-info"></p>
 <div id="qa-results"></div>
 <button id="qa-more" type="button" style="display: none"></button>

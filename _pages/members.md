@@ -13,7 +13,7 @@ profiles:
     content: about_feng.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: dai_dorothy.jpg
+    image: dai_dorothy.jpeg
     content: about_dai.md
     image_circular: false # crops the image to make it circular
   - align: right
@@ -21,7 +21,11 @@ profiles:
     content: about_yap.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: zhang_shiran.jpg
+    image: zhang_shiran.jpeg
     content: about_zhang.md
+    image_circular: false # crops the image to make it circular
+  - align: right
+    image: yang_rui.jpg
+    content: about_yang.md
     image_circular: false # crops the image to make it circular
 ---

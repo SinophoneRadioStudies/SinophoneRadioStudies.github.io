@@ -157,3 +157,131 @@
   border: 1px solid var(--global-divider-color);
   border-radius: 3px;
 }
+
+/* contents */
+.qa-issue {
+  margin-bottom: 0.5rem;
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 3px;
+}
+
+.qa-issue > summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  align-items: baseline;
+  padding: 0.6rem 0.9rem;
+  cursor: pointer;
+}
+
+.qa-issue-t {
+  font-size: 1rem;
+}
+
+.qa-issue-n {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+}
+
+.qa-toc-list {
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.qa-toc-row {
+  display: flex;
+  gap: 0.8rem;
+  align-items: baseline;
+  padding: 0.4rem 0.9rem;
+  color: var(--global-text-color);
+  text-decoration: none;
+  border-top: 1px solid var(--global-divider-color);
+}
+
+.qa-toc-row:first-child {
+  border-top: none;
+}
+
+.qa-toc-row:hover {
+  color: var(--global-text-color);
+  text-decoration: none;
+  background-color: var(--global-bg-color);
+}
+
+.qa-qn {
+  flex: 0 0 3.2rem;
+  font-size: 0.82rem;
+  color: var(--global-theme-color);
+  text-align: right;
+}
+
+.qa-qt {
+  flex: 1 1 60%;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.qa-who {
+  flex: 0 1 auto;
+  max-width: 32%;
+  font-size: 0.78rem;
+  color: var(--global-text-color-light);
+  text-align: right;
+}
+
+@media (max-width: 620px) {
+  .qa-toc-row {
+    flex-wrap: wrap;
+  }
+
+  .qa-who {
+    max-width: 100%;
+    text-align: left;
+  }
+}
+
+/* prominent entry points */
+.qa-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  padding: 1.1rem 1.2rem;
+  margin: 1.5rem 0;
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 3px;
+}
+
+.qa-cta-head {
+  flex: 1 1 100%;
+  font-size: 1.05rem;
+}
+
+.qa-cta-sub {
+  flex: 1 1 100%;
+  margin-bottom: 0.3rem;
+  font-size: 0.88rem;
+  color: var(--global-text-color-light);
+}
+
+.qa-cta a {
+  padding: 0.5rem 1.1rem;
+  font-size: 0.95rem;
+  color: var(--global-bg-color);
+  text-decoration: none;
+  background-color: var(--global-theme-color);
+  border-radius: 3px;
+}
+
+.qa-cta a.secondary {
+  color: var(--global-theme-color);
+  background-color: transparent;
+  border: 1px solid var(--global-theme-color);
+}
+
+.qa-cta a:hover {
+  text-decoration: none;
+  filter: brightness(1.15);
+}
