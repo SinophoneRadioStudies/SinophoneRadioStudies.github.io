@@ -4,3 +4,8 @@ assets/css/main.scss
 assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
+
+# Generated full-text index data for 無線電問答彙刊 (machine-written JSON)
+assets/qa/*.json
+assets/qa/idx/**
+assets/qa/doc/**
